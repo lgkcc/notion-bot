@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Environment variables file
+.env
+
+# IDE files
+.idea/
+*.iml
